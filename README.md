@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e1ebf87-544e-4909-b5e6-9eeaf27e5512)
-
+![image](https://github.com/user-attachments/assets/0d843f0a-af1b-41b6-a5c8-1fbe5080dfc1)
 
 
 # Local Court Piece (Rang) Game
