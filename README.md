@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/ed8daa53-c869-4e0c-828a-96521209044c)
+![image](https://github.com/user-attachments/assets/5e1ebf87-544e-4909-b5e6-9eeaf27e5512)
 
 
 
@@ -27,7 +26,8 @@
   3. The player with the highest card wins the trick.
   4. The team with the most tricks wins the round.
 
-![image](https://github.com/user-attachments/assets/5e1ebf87-544e-4909-b5e6-9eeaf27e5512)
+![image](https://github.com/user-attachments/assets/ed8daa53-c869-4e0c-828a-96521209044c)
+
 
 ## Tech Stack
 This game was built using the **MERN** stack, leveraging the following technologies:
