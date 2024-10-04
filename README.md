@@ -25,7 +25,7 @@
   3. The player with the highest card wins the trick.
   4. The team with the most tricks wins the round.
 
-![image](https://github.com/user-attachments/assets/ed8daa53-c869-4e0c-828a-96521209044c)
+![image](https://github.com/user-attachments/assets/e9f7bfad-7643-478a-96b8-4db2ed5c10d4)
 
 
 ## Tech Stack
