@@ -1,0 +1,72 @@
+.sampleHomePage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color:rgb(17, 82, 34)
+
+}
+
+.myinput {
+    font-size: 2rem;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    border-radius: 2rem;
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.25);
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    background-color:black;
+    text-align: center;
+    width: 35%;
+    height: 4%;
+    font-size: 40px;
+    font-family: sans-serif;
+  }
+
+.sampleTitle{
+    flex:1;
+    position: absolute;
+    top : 25%;
+    left: 40%;
+    font-size:100px;
+    color:coral;
+    text-align: center;
+    font-family: sans-serif;
+
+    
+    /* background-image: linear-gradient(to bottom, white, blue); */
+}
+
+.logo{
+    position: absolute;
+    top:32%;
+    left:38%;
+    right: 0;
+    bottom: 0;
+}
+
+  .mybutton {
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid gry;
+    border-radius: 2rem;
+    background: linear-gradient(to bottom, black, rgb(46, 76, 152));
+    color: rgb(17, 82, 34);
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    top: 58%;
+    left: 46%;
+    width: 7%;
+    height: 7%;
+    font-family: sans-serif;
+    position: absolute;
+  }
+  
+
+  button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.25);
+  }
